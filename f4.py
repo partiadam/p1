@@ -1,0 +1,5 @@
+teljesnév = input("teljesnév ")
+hossz = len(teljesnév)
+print("*" * (hossz+4))
+print("*", teljesnév, "*")
+print("*" * (hossz+4) )
